@@ -1,3 +1,8 @@
+> **Atlas Memory Fabric (AtlasHub.SI integration track)** · [Atlas project notes](ATLAS.md) · [Legal contacts](LEGAL.md)  
+> Curated by [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas). Original project: [GBrain by Garry Tan](https://github.com/garrytan/gbrain). The original MIT license, notices and README content remain in effect.
+
+---
+
 <h1><picture><source media="(prefers-color-scheme: dark)" srcset="docs/images/brand/gbrain-wordmark-light.svg"><img src="docs/images/brand/gbrain-wordmark.svg" alt="GBrain" height="52"></picture></h1>
 
 **Give the agent you already use a memory you control.** GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them.
