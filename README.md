@@ -1,10 +1,12 @@
-# Atlas Memory Fabric — Cortex Foundation
+# Atlas Memory Fabric — GBrain Engine Reference
 
-**Portfolio status:** Core supporting component; verify integration.
+**Portfolio status: CORE COMPONENT / RETAIN.**
 
-Memory engine and technical substrate under AtlasCortex, not a separate competing knowledge product. Preserve source boundaries, GBrain provenance and isolated organizational memory.
+This repository preserves the MIT-licensed GBrain upstream and Atlas integration track. AtlasCortex owns governance, scoped access, context routing, provenance and integration; Memory Fabric is the engine source/reference, not a second memory product or database. The Cortex README dated 21 Nov reports Atlas and GWD GBrain installations with independent memory scopes; the exact deployed source commit and current health have not been independently verified. Keep this repository until deployment provenance, upgrades, backups and replacement strategy are verified. Do not run the historical Kuzu/Supabase replacement stack as an approved migration. Git sources remain authoritative; GBrain indexes authorized knowledge.
 
-> Existing technical reference below is retained for provenance. Product scope follows the [AtlasHub institutional profile](https://github.com/AtlasHub-Si); conflicting historical plans are not active instructions.
+> Existing engineering material below is retained for provenance. The current portfolio baseline governs scope; historical instructions do not authorize deployment.
+
+[AtlasHub portfolio](https://github.com/AtlasHub-Si/.github/blob/main/PORTFOLIO.md) · [AtlasHub.SI](https://atlashub.si)
 
 ---
 
