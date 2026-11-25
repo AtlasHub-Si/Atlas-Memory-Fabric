@@ -1,3 +1,13 @@
+# Atlas Memory Fabric — Cortex Foundation
+
+**Portfolio status:** Core supporting component; verify integration.
+
+Memory engine and technical substrate under AtlasCortex, not a separate competing knowledge product. Preserve source boundaries, GBrain provenance and isolated organizational memory.
+
+> Existing technical reference below is retained for provenance. Product scope follows the [AtlasHub institutional profile](https://github.com/AtlasHub-Si); conflicting historical plans are not active instructions.
+
+---
+
 > **Atlas Memory Fabric (AtlasHub.SI integration track)** · [Atlas project notes](ATLAS.md) · [Legal contacts](LEGAL.md)  
 > Curated by [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas). Original project: [GBrain by Garry Tan](https://github.com/garrytan/gbrain). The original MIT license, notices and README content remain in effect.
 
@@ -382,3 +392,7 @@ MIT. I built GBrain to run my OpenClaw and Hermes deployments — the production
 Origin story: [`docs/ethos/ORIGIN.md`](docs/ethos/ORIGIN.md).
 
 Community PR contributors are credited in `CHANGELOG.md` per release. Attribution for the retired provider's historical embedding and reranker integration remains in Git at `6040075c6cb95be5881cc2e1b76ef7d71f4e5d29`. Voyage AI for the asymmetric-encoding recipe template. Ramp Labs for the search quality improvements lineage.
+
+
+---
+[AtlasHub.SI](https://atlashub.si) · London · Lisbon · Goiânia
